@@ -32,6 +32,7 @@ public class MMessage {
         this.author = author;
     }
 
+
     public String getDate() {
         return date;
     }

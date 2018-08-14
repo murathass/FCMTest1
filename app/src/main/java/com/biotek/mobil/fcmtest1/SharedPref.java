@@ -23,6 +23,7 @@ public class SharedPref  {
         editor.commit();
     }
 
+    
     public String getLoginInfo() {
         return preferences.getString("user","0");
     }

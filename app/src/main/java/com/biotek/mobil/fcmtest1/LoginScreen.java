@@ -29,6 +29,7 @@ public class LoginScreen extends AppCompatActivity {
         user_et = findViewById(R.id.user);
         pass_et = findViewById(R.id.pass);
         pref = new SharedPref(getApplicationContext());
+
         mAuth = FirebaseAuth.getInstance();
 
         if (!pref.getLoginInfo().equals("0")){
@@ -49,6 +50,7 @@ public class LoginScreen extends AppCompatActivity {
                         }
                     }
                 });
+
             }
         });
 

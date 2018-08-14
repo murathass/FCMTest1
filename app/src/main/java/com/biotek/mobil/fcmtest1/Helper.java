@@ -10,4 +10,5 @@ public class Helper {
     public static String decodeToken(String s){
         return  s.replace("&0001",".");
     }
+
 }

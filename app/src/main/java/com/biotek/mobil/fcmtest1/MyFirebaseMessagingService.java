@@ -61,7 +61,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService{
         if (remoteMessage.getNotification() != null) {
             String mes = remoteMessage.getNotification().getBody();
             Log.d("FCM", "Message Notification Body123: " + mes);
-
         }
     }
 

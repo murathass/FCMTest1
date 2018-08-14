@@ -52,5 +52,6 @@ public class CustomAdapter extends BaseAdapter {
         content.setText(message.getContent());
 
         return v;
+
     }
 }

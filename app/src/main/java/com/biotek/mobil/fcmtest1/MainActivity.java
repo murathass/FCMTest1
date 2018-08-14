@@ -127,7 +127,9 @@ public class MainActivity extends AppCompatActivity {
                 adapter.notifyDataSetChanged();
             } catch (Exception e) {
                 e.printStackTrace();
+
             }
+
         }
     };
 }
