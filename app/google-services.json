@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821886981242",
+    "firebase_url": "https://fir-testleri.firebaseio.com",
+    "project_id": "fir-testleri",
+    "storage_bucket": "fir-testleri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821886981242:android:3a5b9897ff66f0e1",
+        "android_client_info": {
+          "package_name": "com.biotek.mobil.fcmtest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821886981242-4a36qt1go7msjdhofngp73sjhq13idos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50h1gsNXgxLd4WPB1naP6x5ePWgpPbJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
